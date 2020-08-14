@@ -1,6 +1,20 @@
-### Hi there, i'am rizki 👋
+## Hi there, I'am Rizki 👏
+[![Gmail Url](https://img.shields.io/twitter/url?label=rizkimaulana348@gmail.com&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.rizkimaulana348@gmail.com)](mailto:rizkimaulana348@gmail.com) [![Instagram Profile](https://img.shields.io/twitter/url?label=instagram-rizki_4106&logo=instagram&style=social&url=https://www.instagram.com/rizki_4106/)](https://www.instagram.com/rizki_4106/) [![Medium Profile](https://img.shields.io/twitter/url?label=medium-rizki_4106&logo=medium&style=social&url=https://medium.com/@rizki4106)](https://medium.com/@rizki4106)
 
-- 🔭 I’m currently working on <a href='https://www.developeridn.com' target='_blank'>Developer Indonesia</a>
-- 💡 I create <a href='https://github.com/rizki4106/pandajs'>pandajs</a>
-- 📫 How to reach me: rizkimaulana348@gmail.com
-- 😄 Pronouns: He/Him
+I am an Indonesian developer who is very enthusiastic in the fields of web development, servers, cyber security and open source projects 👫. I have created a lot of open source tools that you can use for build amazing things ⭐ check on my github repository now.. 😎
+
+
+#### Currently I working on
+
+| [<img src="https://developeridn.com/static/media/logo2.e65a7a86.svg" width="150">](https://www.developeridn.com) | [<img src="https://camo.githubusercontent.com/dc6b5e462f8c3e683d6dc39dc81f2c67cad5ff2c/68747470733a2f2f6170692e646576656c6f70657269646e2e636f6d2f696d616765732f6d656469612f70616e64616a735b325d2e706e67" width="150">]()
+|---|---|
+| [Developer Indonesia](https://www.developeridn.com)  |   [PandaJS](https://github.com/rizki4106/pandajs) |
+
+#### Tools and Programming language
+
+| [<img src="https://cdn.svgporn.com/logos/python.svg" width="100">](Python) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="100">](Javascript) | [<img src="https://cdn.svgporn.com/logos/django.svg" width="100">](Django) | [<img src="https://cdn.svgporn.com/logos/flask.svg" width="100">](Flask) | [<img src="https://cdn.svgporn.com/logos/react.svg" width="100">](react) | [<img src="https://cdn.svgporn.com/logos/vue.svg" width="100">](Vue) | [<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="100">](nodejs) | 
+|-----|----|----|----|----|----|----|
+
+|[<img src="https://cdn.svgporn.com/logos/laravel.svg" width="100">](Laravel) | [<img src="https://cdn.svgporn.com/logos/codeigniter.svg" width="100">](Codeigniter) | [<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="100">](mongoDb) | [<img src="https://cdn.svgporn.com/logos/firebase.svg" width="100">](FireBase) | [<img src="https://cdn.svgporn.com/logos/rest.svg" width="100">](mongoDb) |[<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="100">](PostgreSql) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="100">](MySQL) |
+|---|---|---|---|---|---|---|
+
