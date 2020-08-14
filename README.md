@@ -12,9 +12,9 @@ I am an Indonesian developer who is very enthusiastic in the fields of web devel
 
 #### Tools and Programming language
 
-| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">](Python) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">](Javascript) | [<img src="https://cdn.svgporn.com/logos/django.svg" width="50">](Django) | [<img src="https://cdn.svgporn.com/logos/flask.svg" width="50">](Flask) | [<img src="https://cdn.svgporn.com/logos/react.svg" width="50">](react) | [<img src="https://cdn.svgporn.com/logos/vue.svg" width="50">](Vue) | [<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50">](nodejs) | 
+| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/django.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/flask.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/react.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/vue.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50">]() | 
 |-----|----|----|----|----|----|----|
 
-|[<img src="https://cdn.svgporn.com/logos/laravel.svg" width="50">](Laravel) | [<img src="https://cdn.svgporn.com/logos/codeigniter.svg" width="50">](Codeigniter) | [<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50">](mongoDb) | [<img src="https://cdn.svgporn.com/logos/firebase.svg" width="50">](FireBase) | [<img src="https://cdn.svgporn.com/logos/rest.svg" width="50">](mongoDb) |[<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50">](PostgreSql) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">](MySQL) |
+|[<img src="https://cdn.svgporn.com/logos/laravel.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/codeigniter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/firebase.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/rest.svg" width="50">]() |[<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]() |
 |---|---|---|---|---|---|---|
 
