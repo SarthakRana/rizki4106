@@ -6,7 +6,7 @@ I am an Indonesian developer who is very enthusiastic in the fields of web devel
 
 #### Currently I working on
 
-| [<img src="https://developeridn.com/static/media/logo2.e65a7a86.svg" width="150">](https://www.developeridn.com) | [<img src="https://camo.githubusercontent.com/dc6b5e462f8c3e683d6dc39dc81f2c67cad5ff2c/68747470733a2f2f6170692e646576656c6f70657269646e2e636f6d2f696d616765732f6d656469612f70616e64616a735b325d2e706e67" width="150">]()
+| [<img src="https://developeridn.com/static/media/logo2.e65a7a86.svg" width="70">](https://www.developeridn.com) | [<img src="https://camo.githubusercontent.com/dc6b5e462f8c3e683d6dc39dc81f2c67cad5ff2c/68747470733a2f2f6170692e646576656c6f70657269646e2e636f6d2f696d616765732f6d656469612f70616e64616a735b325d2e706e67" width="70">]()
 |---|---|
 | [Developer Indonesia](https://www.developeridn.com)  |   [PandaJS](https://github.com/rizki4106/pandajs) |
 
