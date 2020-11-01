@@ -12,8 +12,8 @@ I am an Indonesian developer who is very enthusiastic in the fields of web devel
 
 #### Tools and Programming language
 
-| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/django.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/flask.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/react.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/vue.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50">]() | 
-|-----|----|----|----|----|----|----|
+| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/django.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/flask.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/react.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/vue.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50">]() | <img src="https://cdn.svgporn.com/logos/nextjs.svg" width="50"/> |  <img src="https://cdn.svgporn.com/logos/webpack.svg" width="50"/>
+|-----|----|----|----|----|----|----|----|----|
 
 |[<img src="https://cdn.svgporn.com/logos/laravel.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/codeigniter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/firebase.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/rest.svg" width="50">]() |[<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]() |
 |---|---|---|---|---|---|---|
